@@ -39,3 +39,33 @@ alert(fruta.cor);*/
 console.log(frutas);
 alert(frutas[1].nome);*/
 
+/*//var idade=18
+var idade=prompt("Qual é a sua idade? ");
+if(idade>=18)
+{
+    alert("Maior de idade");    
+}
+else{
+    alert("Menor de idade");
+};*/
+
+
+/*var count=0 ;
+while (count<=5){
+    console.log(count);
+    alert(count);
+    count++;
+}*/
+
+/*var count
+
+for(count=0; count<=5; count++){
+    alert(count);
+}*/
+
+/*var d=new Date()   
+alert(d.getMonth()+1);
+alert(d.getDay());
+alert(d.getHours());
+alert(d.getMinutes());*/
+
