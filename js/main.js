@@ -1,3 +1,28 @@
+/*function soma(n1, n2){
+    return n1+n2;
+}
+
+function setReplace(frase, nome, nome_novo){
+    return frase.replace(nome, nome_novo);
+}
+var validar
+function validaIdade(idade){
+    validar=0;
+    if(idade>=18){
+        validar=true;
+    }
+    else{
+        validar=false;
+    }
+    return validar;
+}
+
+var idade = prompt("Qual é sua idade? ")
+validaIdade(idade)
+console.log(validar);*/
+
+//alert(soma(5, 10));
+//alert(setReplace("Vai Japão", "Japão", "Brasil"));
 
 /*var nome="Arthur Nascimento";
 var idade=19;
